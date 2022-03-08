@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao meu perfil!
 
  <div>
   <a href="https://github.com/Viktorhs">
@@ -13,10 +13,10 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Rede sociais!
  
 <div> 
-  <a href = "mailto:victor.hugo.gba@hotmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:victor.hugo.gba@hotmail.com.br"><img src=https://img.shields.io/badge/-Outlook-%23359?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-hugo-de-souza-9480031ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Viktorhs/Viktorhs/blob/output/github-contribution-grid-snake.svg)
