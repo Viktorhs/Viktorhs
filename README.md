@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil!
+## Bem-vindo(a), eu sou o Victor Souza
 
  <div>
   <a href="https://github.com/Viktorhs">
@@ -10,11 +10,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
- 
- <br>
- 
-  ### Rede sociais!
- 
+  <br>
 <div> 
   <a href = "mailto:victor.hugo.gba@hotmail.com.br"><img src=https://img.shields.io/badge/-Outlook-%23359?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-hugo-de-souza-9480031ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
