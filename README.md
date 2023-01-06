@@ -6,8 +6,8 @@
 
 <div align="center" >
     <a href="https://github.com/Viktorhs">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=pablodamascenoo&show_icons=true&theme=dracula">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodamascenoo&theme=dracula&layout=compact">
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Viktorhs&show_icons=true&theme=dracula">
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viktorhs&theme=dracula&layout=compact">
 </div>
 
 ## My Skill Set  
