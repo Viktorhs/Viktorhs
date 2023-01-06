@@ -54,8 +54,6 @@
 
 </td></tr></table>  
 
-<br/>  
-
 <br/>
 
 ## Connect with me  
