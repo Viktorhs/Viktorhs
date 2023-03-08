@@ -1,7 +1,7 @@
 ## Hi! I'm Victor Hugo de Souza, a 23 years old.
 
 - 👨‍💻 Full Stack Web Development
-- 🌱 actually studying infrastructure
+- 🌱 actually studying Java
 - 😄 Pronouns: He/Him
 
 <div align="center" >
