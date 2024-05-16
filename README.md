@@ -1,10 +1,6 @@
 ## Hi! I'm Victor Hugo de Souza. 
 
-### I'm a tech lover and Software Engineer!
-- 👨🏻‍💻 Fullstack Software Engineer
-- 🖥️ I'm already working with TypeScript and JavaScript on React.js and Node.js, with databases SQL (PostgreSQL) and NoSQL (MongoDB), Prisma ORM and Jest to integration tests.
-- 💬 Pronouns: He/His
-- 📚 Driven Web Fullstack Bootcamp student
+### I'm a tech lover and Fullstack Developer!
 
 <br />
 
